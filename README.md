@@ -1,6 +1,6 @@
-# Windows Development Context Menus
+# Windows Folder Context Menus
 
-Some useful dev related context menus in windows file explorer.
+Some useful context menus for folders on windows.
 
 * open visual studio command prompt in current folder
 * open msys2 command prompt in current folder
