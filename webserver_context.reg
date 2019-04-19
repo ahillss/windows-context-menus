@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\open_webserver]
+@="Open webserver here"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\open_webserver\command]
+@="C:\\Windows\\System32\\cmd.exe /k \"cd %V && C:\\msys64\\usr\\bin\\python3.exe -m http.server\""
+
+[HKEY_CLASSES_ROOT\Folder\shell\open_webserver]
+@="Open webserver here"
+
+[HKEY_CLASSES_ROOT\Folder\shell\open_webserver\command]
+@="C:\\Windows\\System32\\cmd.exe /k \"cd %V && C:\\msys64\\usr\\bin\\python3.exe -m http.server\""
