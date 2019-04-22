@@ -1,4 +1,4 @@
-# Windows Folder Context Menus
+# Windows Context Menus
 
 Some useful context menus for folders on windows.
 
